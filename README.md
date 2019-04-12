@@ -1,4 +1,4 @@
-# Alcorlink-CCID-Drvier-for-MacOSX
+# Alcorlink-CCID-Driver-for-MacOSX
 
 Introduction
 -------------------------------------------------------------------------------
@@ -12,7 +12,7 @@ History
 v1.1.1 (31/1/2019)
 - New release.
 - Support AK9563.
-- Based on developement version ccid-1.4.30 (https://ccid.apdu.fr/).
+- Based on development version ccid-1.4.30 (https://ccid.apdu.fr/).
 - Import Mac OS X 10.11.5 configure script from ccid-1.4.30.
 - Test the driver on Mac OS X 10.11.5.
 

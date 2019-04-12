@@ -1,0 +1,5 @@
+XSym
+0046
+e4a42813adfcbc92e8629a617ceea653
+../PCSC-contrib/libPCSCv2part10/PCSCv2part10.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 

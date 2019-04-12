@@ -1,0 +1,5 @@
+XSym
+0029
+81754f0bd0488c260f8d7427c6657906
+../PCSC/src/PCSC/ifdhandler.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
